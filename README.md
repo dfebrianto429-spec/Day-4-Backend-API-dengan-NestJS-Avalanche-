@@ -613,5 +613,4 @@ Di Day 5, kita akan:
 ---
 
 🔥 **Backend siap.**
-Besok kita satukan semuanya menjadi **Full Stack Web3 dApp** 🚀#   D a y - 4 - B a c k e n d - A P I - d e n g a n - N e s t J S - A v a l a n c h e -  
- 
+Besok kita satukan semuanya menjadi **Full Stack Web3 dApp** 🚀
